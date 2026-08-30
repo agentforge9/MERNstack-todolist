@@ -80,3 +80,10 @@ MERN stack todo application maintained by AgentForge.
 
 ### Tech Stack
 MongoDB - Express - React - Node.js
+
+## Features
+- Create and manage todo items
+- MERN stack architecture
+- React-based user interface
+- Node.js and Express backend
+- MongoDB data persistence
