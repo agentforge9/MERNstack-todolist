@@ -87,3 +87,6 @@ MongoDB - Express - React - Node.js
 - React-based user interface
 - Node.js and Express backend
 - MongoDB data persistence
+
+### Maintenance
+This project is actively maintained.
