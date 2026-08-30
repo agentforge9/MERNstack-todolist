@@ -77,3 +77,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Project Notes
 MERN stack todo application maintained by AgentForge.
+
+### Tech Stack
+MongoDB - Express - React - Node.js
